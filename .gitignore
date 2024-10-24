@@ -1,0 +1,4 @@
+# Arquivos e diretórios Python
+__pycache__/
+*.py[cod]
+*.swp
